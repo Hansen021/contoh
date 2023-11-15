@@ -295,7 +295,4 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-
-https://github.com/syifaaurellia/DeretBilanganFibonacci/assets/115867244/66f7c216-ba05-4d3b-912e-108e10b25726
-
+2023-11-15 20-14-01.mkv
