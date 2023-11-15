@@ -287,7 +287,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-![Screenshot (116)](https://github.com/syifaaurellia/DeretBilanganFibonacci/assets/115867244/3ce9415d-bf44-45fc-a8eb-cdf5734ffd3c)
+![Screenshot (116)](https://https://github.com/Hansen021/contoh/blob/main/Screenshot%202023-11-15%20201133.png)
 
 
 
