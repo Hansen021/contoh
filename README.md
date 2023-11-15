@@ -287,7 +287,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-[file:///C:/Users/Asus/Downloads/Screenshot%202023-11-15%20201133%20(1).html](https://github.com/Hansen021/contoh/blob/main/Screenshot%202023-11-15%20201133.png)
+[Screenshot 2023-11-15 201133.png](https://github.com/Hansen021/contoh/blob/main/Screenshot%202023-11-15%20201133.png)
 
 
 
